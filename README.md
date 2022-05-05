@@ -10,7 +10,7 @@
 
 ## 演示
 
-[http://music.cccyun.cc/](http://www.musictool.top/ "音乐搜索器")
+[http://music.lizhanqi.xyz/](http://music.lizhanqi.xyz/ "音乐搜索器")
 
 如果获取有误或需要改进，欢迎提交 [Issues](https://github.com/maicong/music/issues)
 
